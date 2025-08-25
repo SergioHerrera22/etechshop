@@ -20,7 +20,7 @@ export default function Navbar() {
           <input
             type="text"
             placeholder="Buscar productos..."
-            className="w-full border border-gray-200 rounded-full pl-10 pr-4 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500"
+            className=" w-full border border-gray-200 rounded-full pl-10 pr-4 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500"
           />
         </div>
       </div>

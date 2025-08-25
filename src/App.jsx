@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <NavBar />
-      <ItemListContainer message="Mochi onchii" />
+      <ItemListContainer message="Bienvenidos a Etech Shop 🚀" />
     </>
   );
 }
