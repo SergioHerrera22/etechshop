@@ -1,4 +1,4 @@
-import { Search, ShoppingCart, Heart, Package } from "lucide-react";
+import { Search, Heart, Package } from "lucide-react";
 import CartWidget from "./CartWidget";
 
 export default function Navbar() {
